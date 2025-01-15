@@ -220,6 +220,10 @@ img {
   width: 463px;
 }
 
+.home__logo-img {
+  width: 78px;
+}
+
 /*BUTTONS*/
 .button {
   display: inline-block;
